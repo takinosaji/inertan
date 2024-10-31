@@ -1,0 +1,5 @@
+﻿llama-index
+llama-index-vector-stores-milvus
+openpyxl
+pymilvus~=2.4.8
+click
